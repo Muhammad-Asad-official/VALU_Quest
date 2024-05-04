@@ -1,0 +1,4 @@
+#Sat May 04 09:25:58 PKT 2024
+base.0=D\:\\Freelancing\\Freelancer\\Flutter Apps\\VALU_Quest\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
